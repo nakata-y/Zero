@@ -44,6 +44,7 @@
 
 　　　連絡先を登録。
   　「連絡先アプリ」に登録している連絡先を検索します。
+   
     ![iphone_8plus_連絡先アクセス](https://user-images.githubusercontent.com/101084603/194190415-cf9ae748-8af9-4e88-ab2f-d7fb8f107cf0.png)
 
  
