@@ -10,6 +10,13 @@
 
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
+
+![Zero使い方git下書き 001](https://user-images.githubusercontent.com/101084603/196901909-20fa5e5e-267d-4d10-bdc7-d4f32ccc70fc.jpeg)
+
+
+
+
+
 　まずは、３つの連絡先の登録を！
  
  
