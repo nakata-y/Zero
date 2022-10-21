@@ -2,7 +2,7 @@
 
 ![Zero使い方git下書き 001](https://user-images.githubusercontent.com/101084603/197130084-1cadd9a1-ec41-4bb1-b241-62faa3385ec4.jpeg)
 
-ポケット等の中のiPhoneに誤ってタップして、誤発信したことありませんか？
+ポケット等の中のiPhoneを誤ってタップし、誤発信したことありませんか？
 
 このアプリを使えば、安心＆簡単！
 
