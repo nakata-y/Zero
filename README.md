@@ -68,7 +68,8 @@
    検索結果の中で、希望の連絡先をタップ。
    画面下から、出てくる電話番号をタップすれば、電話発信。
    
-![Zero使い方git下書き 005](https://user-images.githubusercontent.com/101084603/197134749-a546a181-3afe-46dd-b842-7c095b829c99.jpeg)
+   ![Zero使い方git下書き 007](https://user-images.githubusercontent.com/101084603/197143702-de05ce90-a9e6-460b-ad52-29f5abf0a2c9.jpeg)
+
 
  上図のように、すでに登録済の連絡先の上に、検索結果が出ます。
  
