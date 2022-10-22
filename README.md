@@ -69,6 +69,7 @@
    画面下から、出てくる電話番号をタップすれば、電話発信。
    
    ![Zero使い方git下書き 007](https://user-images.githubusercontent.com/101084603/197143702-de05ce90-a9e6-460b-ad52-29f5abf0a2c9.jpeg)
+   <img width=200 src=https://user-images.githubusercontent.com/101084603/197141548-5371b959-3060-41aa-b78b-c139d83bec56.PNG>
 
 
  上図のように、すでに登録済の連絡先の上に、検索結果が出ます。
