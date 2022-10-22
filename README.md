@@ -22,8 +22,10 @@
 ＊登録した連絡先をタップすれば、下から、電話番号の確認が出てきます。
    間違って、タップした時は、ここで、キャンセル　を押せば、大丈夫。
    誤発信Zeroです。
-   ![IMG_8926](https://user-images.githubusercontent.com/101084603/197141548-5371b959-3060-41aa-b78b-c139d83bec56.PNG)
 
+<img width=350 src=https://user-images.githubusercontent.com/101084603/197141548-5371b959-3060-41aa-b78b-c139d83bec56.PNG>
+
+ 
 ＊iPhone初心者の方で、登録が難しいなら、周囲の方に登録は頼んで、まずは使ってみてください。
  
 ーーーーーーーーーーーーーーーーーーーー
@@ -34,6 +36,7 @@
 
 「OK」を押してください。
 連絡先アプリから、データを取得します。
+
 ![Zero使い方git下書き 002](https://user-images.githubusercontent.com/101084603/197126220-9bdb4bce-8f2c-40c3-ba7d-ae5cb3a34d04.jpeg)
 
 「許可しない」を押したときは、一度、Zeroアプリを削除して,
@@ -68,8 +71,7 @@
    検索結果の中で、希望の連絡先をタップ。
    画面下から、出てくる電話番号をタップすれば、電話発信。
    
-   ![Zero使い方git下書き 007](https://user-images.githubusercontent.com/101084603/197143702-de05ce90-a9e6-460b-ad52-29f5abf0a2c9.jpeg)
-   <img width=200 src=https://user-images.githubusercontent.com/101084603/197141548-5371b959-3060-41aa-b78b-c139d83bec56.PNG>
+   ![Zero使い方git下書き 005](https://user-images.githubusercontent.com/101084603/197328098-cfffede2-b8b4-4fa1-b696-18e3eb1948b5.jpeg)
 
 
  上図のように、すでに登録済の連絡先の上に、検索結果が出ます。
