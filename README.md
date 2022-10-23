@@ -1,6 +1,6 @@
 #アプリZeroとは？
 
-「固定的な相手に手軽に電話ができるアプリ」
+「相手に手軽に電話ができるアプリ」
 
 ![Zero使い方git下書き 001](https://user-images.githubusercontent.com/101084603/197130084-1cadd9a1-ec41-4bb1-b241-62faa3385ec4.jpeg)
 
