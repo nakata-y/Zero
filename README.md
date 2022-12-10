@@ -150,13 +150,16 @@ FaceTimeは、高音質と言われています。
 （注意）（＊＊＊＊＊＊　通話相手）
 １）Zeroアプリから、通話相手がiPhoneならば、電話通話と同様、FaceTimeできます。
 追加の設定で、iPhoneの電話番号を選択後、FaceTimeを選択ください。
-　
+　　　
 2) Zeroアプリから、通話相手がiPadの場合で、『iPhoneと同じApple idの場合』ならば、
 iPhoneの電話番号を選択後、FaceTimeを選択ください。
 このケースでは、通話相手は、iPhoneでもiPadでも受信できます。
 
 3)  Zeroアプリから、通話相手がiPadの場合で、『iPad単独のApple idの場合』は、Zeroアプリに登録できません。
-この場合、FaceTime通話するには、iPadのApple idのメールアドレスを指定しなくてはいけませんが、Zeroアプリでは、連絡帳アプリから、電話番号のみ取得しているためです。メールアドレスを Zeroアプリでは、取得＆登録できないためです。
+
+この場合、FaceTime通話するには、iPadのApple idのメールアドレスを指定しなくてはいけませんが、
+Zeroアプリでは、連絡帳アプリから、電話番号のみ取得しているためです。
+メールアドレスを Zeroアプリでは、取得＆登録できないためです。
 ーー＞　上記３）の場合のみ、 ZeroアプリではFaceTime通話はできません。
 ーー＞なお、発信側(Zeroアプリを使う側の端末)は、iPhoneと同じApple idのiPadでも、
 iPad単独のApple idをお使いのiPadでも、どれでも、Zeroアプリを使用できて、FaceTime通話できます。
