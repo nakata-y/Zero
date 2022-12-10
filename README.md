@@ -139,15 +139,21 @@ Lineトーク画面の先頭へ飛びます。 電話をしてみたけど、つ
 シニア初心者の方やその方のために登録をしてあげる周囲の方は、 まずは、一画面に収まるよう登録して、使ってみてください。
 
 
+
 （＊＊＊＊）
+
 [iPhone や iPad で FaceTime を使う - Apple サポート (日本)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiehq7O7tb7AhX-rlYBHRLHCicQFnoECB8QAQ&url=https%3A%2F%2Fsupport.apple.com%2Fja-jp%2FHT204380&usg=AOvVaw24wfUZOY7c__Otg5QMQ_tj)
 [Phone や iPad で FaceTime 通話を受発信できない場合](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiehq7O7tb7AhX-rlYBHRLHCicQFnoECBcQAQ&url=https%3A%2F%2Fsupport.apple.com%2Fja-jp%2FHT204168&usg=AOvVaw3oxFR_GoTxZo0t5ZLAwPio)
 FaceTimeは、高音質と言われています。
-　　　　
+
+
 （＊＊＊＊＊）
-詳しくは、「FaceTime　通話料」等で最新情報の検索をお願いします。　
+詳しくは、「FaceTime　通話料」等で最新情報の検索をお願いします。
+
 　　　　
+
 （注意）（＊＊＊＊＊＊　通話相手）
+
 １）Zeroアプリから、通話相手がiPhoneならば、電話通話と同様、FaceTimeできます。
 追加の設定で、iPhoneの電話番号を選択後、FaceTimeを選択ください。
 　　　
