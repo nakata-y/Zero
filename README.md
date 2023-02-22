@@ -16,7 +16,7 @@
 
 ２）初期画面を作り直しました。
 
-<img width=200 src=https://user-images.githubusercontent.com/101084603/220490976-64f8adc3-32b5-4782-a5e8-091fd9c3bf39.jpeg>
+<img width=400 src=https://user-images.githubusercontent.com/101084603/220490976-64f8adc3-32b5-4782-a5e8-091fd9c3bf39.jpeg>
 
 
 <img width=200 src=https://user-images.githubusercontent.com/101084603/220487711-a11a772f-ef4b-4c96-bc7b-7c8e98e9359e.png>
